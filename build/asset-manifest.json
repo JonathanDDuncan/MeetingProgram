@@ -1,11 +1,11 @@
 {
-  "main.css": "/static/css/main.c1ed46e7.chunk.css",
-  "main.js": "/static/js/main.f6aeafe3.chunk.js",
-  "main.css.map": "/static/css/main.c1ed46e7.chunk.css.map",
-  "main.js.map": "/static/js/main.f6aeafe3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.d53d57e4.js",
-  "runtime~main.js.map": "/static/js/runtime~main.d53d57e4.js.map",
-  "vendors~main.js": "/static/js/vendors~main.3ca81432.chunk.js",
-  "vendors~main.js.map": "/static/js/vendors~main.3ca81432.chunk.js.map",
-  "index.html": "/index.html"
+  "main.css": "/MeetingProgram/static/css/main.c1ed46e7.chunk.css",
+  "main.js": "/MeetingProgram/static/js/main.bfccbfa5.chunk.js",
+  "main.css.map": "/MeetingProgram/static/css/main.c1ed46e7.chunk.css.map",
+  "main.js.map": "/MeetingProgram/static/js/main.bfccbfa5.chunk.js.map",
+  "runtime~main.js": "/MeetingProgram/static/js/runtime~main.f73db471.js",
+  "runtime~main.js.map": "/MeetingProgram/static/js/runtime~main.f73db471.js.map",
+  "vendors~main.js": "/MeetingProgram/static/js/vendors~main.3ca81432.chunk.js",
+  "vendors~main.js.map": "/MeetingProgram/static/js/vendors~main.3ca81432.chunk.js.map",
+  "index.html": "/MeetingProgram/index.html"
 }
